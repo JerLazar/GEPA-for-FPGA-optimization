@@ -1,0 +1,16 @@
+{
+  "openrouter_api_key": "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",
+  "dataset_path": "gepa_training_output/gepa_examples.jsonl",
+  "dataset_percentage": 20.0,
+  "seed": 42,
+  "train_fraction": 0.8,
+  "task_model": "openrouter/meta-llama/llama-3.1-8b-instruct",
+  "reflection_model": "openrouter/meta-llama/llama-3.1-8b-instruct",
+  "max_metric_calls": 100,
+  "temperature": 0.2,
+  "reflection_temperature": 0.3,
+  "max_tokens": 300,
+  "reflection_max_tokens": 2000,
+  "timeout_seconds": 120,
+  "output_dir": "gepa_output"
+}

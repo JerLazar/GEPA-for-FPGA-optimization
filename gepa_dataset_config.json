@@ -1,0 +1,7 @@
+{
+  "openrouter_api_key": "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",
+  "notes_model": "openrouter/meta-llama/llama-3.1-8b-instruct",
+  "temperature": 0.2,
+  "max_tokens": 300,
+  "timeout_seconds": 120
+}
